@@ -43,7 +43,7 @@ void AMyActor::Tick(float DeltaTime)
 //	for (TActorIterator<AActor> It(World); It; ++It)
 //	{
 		if (GEngine) {
-			GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, "!!My Actor Hello UE5");
+			//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, "!!My Actor Hello UE5");
 		}
 //	}
 

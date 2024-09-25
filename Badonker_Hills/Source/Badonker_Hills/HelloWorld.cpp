@@ -7,7 +7,7 @@
 
 HelloWorld::HelloWorld()
 {
-	std::cout << "Hello Bandoker Hills" << std::endl;
+	//std::cout << "Hello Bandoker Hills" << std::endl;
 }
 
 HelloWorld::~HelloWorld()
